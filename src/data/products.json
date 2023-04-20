@@ -1,0 +1,10 @@
+[{"id":1,"car_factory":"GMC","car_model":"Savana 3500","car_year":2004},
+{"id":2,"car_factory":"Ford","car_model":"Expedition","car_year":2003},
+{"id":3,"car_factory":"Geo","car_model":"Tracker","car_year":1997},
+{"id":4,"car_factory":"Subaru","car_model":"Impreza","car_year":1995},
+{"id":5,"car_factory":"Mitsubishi","car_model":"3000GT","car_year":1992},
+{"id":6,"car_factory":"Audi","car_model":"A4","car_year":1997},
+{"id":7,"car_factory":"Pontiac","car_model":"Firefly","car_year":1995},
+{"id":8,"car_factory":"Ford","car_model":"Fusion","car_year":2011},
+{"id":9,"car_factory":"Dodge","car_model":"Grand Caravan","car_year":1993},
+{"id":10,"car_factory":"Buick","car_model":"Century","car_year":1994}]
