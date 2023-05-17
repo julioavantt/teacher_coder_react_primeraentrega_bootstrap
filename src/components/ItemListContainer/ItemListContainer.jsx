@@ -9,8 +9,6 @@ export const ItemListContainer = ({ greeting }) => {
 	const [list, setList] = useState([])
 	const { id } = useParams()
 
-	console.log(id)
-
 	useEffect(() => {
 		const productList = new Promise((resolve, reject) => {
 			setTimeout(() => {
