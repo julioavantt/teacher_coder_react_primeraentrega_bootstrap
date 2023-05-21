@@ -2,10 +2,10 @@
 	{
 		"name": "Ruben Bergnaum Jr.",
 		"avatar": "https://loremflickr.com/640/480/technics",
-		"stock": 35,
+		"stock": 5,
 		"category": "autos",
 		"id": "1",
-		"prize": 100
+		"price": 100
 	},
 	{
 		"name": "Billie Aufderhar",
@@ -13,7 +13,7 @@
 		"stock": 10,
 		"category": "trenes",
 		"id": "2",
-		"prize": 100
+		"price": 100
 	},
 	{
 		"name": "Alonzo Reichel MD",
@@ -21,7 +21,7 @@
 		"stock": 83,
 		"category": "trenes",
 		"id": "3",
-		"prize": 300
+		"price": 300
 	},
 	{
 		"name": "Genevieve Hand",
@@ -29,7 +29,7 @@
 		"stock": 27,
 		"category": "trenes",
 		"id": "4",
-		"prize": 100
+		"price": 100
 	},
 	{
 		"name": "Miss Marcella O'Kon",
@@ -37,7 +37,7 @@
 		"stock": 89,
 		"category": "autos",
 		"id": "5",
-		"prize": 100
+		"price": 100
 	},
 	{
 		"name": "Clayton Hammes DVM",
@@ -45,7 +45,7 @@
 		"stock": 73,
 		"category": "trenes",
 		"id": "6",
-		"prize": 10
+		"price": 10
 	},
 	{
 		"name": "Mr. Colin Berge",
@@ -53,7 +53,7 @@
 		"stock": 62,
 		"category": "motos",
 		"id": "7",
-		"prize": 10000
+		"price": 10000
 	},
 	{
 		"name": "Otis Wintheiser",
@@ -61,7 +61,7 @@
 		"stock": 5,
 		"category": "trenes",
 		"id": "8",
-		"prize": 100
+		"price": 100
 	},
 	{
 		"name": "Angie Dare",
@@ -69,7 +69,7 @@
 		"stock": 60,
 		"category": "trenes",
 		"id": "9",
-		"prize": 100
+		"price": 100
 	},
 	{
 		"name": "Amos Wisozk",
@@ -77,7 +77,7 @@
 		"stock": 57,
 		"category": "motos",
 		"id": "10",
-		"prize": 1060
+		"price": 1060
 	},
 	{
 		"name": "Judith Rohan",
@@ -85,7 +85,7 @@
 		"stock": 14,
 		"category": "trenes",
 		"id": "11",
-		"prize": 1500
+		"price": 1500
 	},
 	{
 		"name": "Shane Bednar I",
@@ -93,7 +93,7 @@
 		"stock": 5,
 		"category": "trenes",
 		"id": "12",
-		"prize": 100
+		"price": 100
 	},
 	{
 		"name": "Jay Lowe",
@@ -101,7 +101,7 @@
 		"stock": 52,
 		"category": "trenes",
 		"id": "13",
-		"prize": 3100
+		"price": 3100
 	},
 	{
 		"name": "Ms. Rick Turcotte",
@@ -109,7 +109,7 @@
 		"stock": 83,
 		"category": "trenes",
 		"id": "14",
-		"prize": 1040
+		"price": 1040
 	},
 	{
 		"name": "Jonathon Ondricka",
@@ -117,6 +117,6 @@
 		"stock": 80,
 		"category": "trenes",
 		"id": "15",
-		"prize": 1400
+		"price": 1400
 	}
 ]
